@@ -12,6 +12,8 @@ torch = "*"
 pillow = "*"
 opencv-python = "*"
 psutil = "*"
+keras = "*"
+
 [dev-packages]
 
 [requires]
